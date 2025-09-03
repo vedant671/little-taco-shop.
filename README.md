@@ -1,6 +1,6 @@
 # 🌮 The Little Taco Shop
 
-A simple website project for **The Little Taco Shop** built with HTML and CSS.  
+A simple website project for **The Little Taco Shop** built with using basics of HTML and little bit of CSS.  
 It includes a homepage, store hours page, and a contact form.
 
 ---
